@@ -14,8 +14,7 @@ H2A_CharaChipがADDされたオブジェクトに一緒に付けることで、
 SpriteRendererがADDされていなければならない。
 
 ### こんな感じ
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Unityでアレックスを歩かせてみるテスト<a href="https://twitter.com/hashtag/Unity3d?src=hash">#Unity3d</a> <a href="https://twitter.com/hashtag/RPG%E3%83%84%E3%82%AF%E3%83%BC%E3%83%AB2000?src=hash">#RPGツクール2000</a> <a href="https://twitter.com/hashtag/%E3%83%84%E3%82%AF%E3%83%BC%E3%83%AB2000?src=hash">#ツクール2000</a> <a href="https://twitter.com/hashtag/rpgmaker?src=hash">#rpgmaker</a> <a href="https://t.co/IpTebKfuSA">pic.twitter.com/IpTebKfuSA</a></p>&mdash; はどはど@Had2Apps🔵 (@katai5plate) <a href="https://twitter.com/katai5plate/status/909691061596913664">2017年9月18日</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://t.co/IpTebKfuSA">Twitterの動画ツイートに飛びます</a>
 
 ### H2A_CharaChip
 #### 用途
